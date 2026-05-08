@@ -39,7 +39,44 @@ o sistema busca melhorar o controle e a segurança ferroviaria através da colet
 
 </p>
 
+---
 
+## ⚙️ Funcionalidades
+
+✔️ **Funcionalidade 1:** Permitir login de usuários no sistema.
+
+✔️ **Funcionalidade 2:** Validar credenciais de acesso no banco de dados.
+
+✔️ **Funcionalidade 3:** Permitir cadastro de sensores ferroviários.
+
+✔️ **Funcionalidade 4:** Listar sensores cadastrados no sistema.
+
+✔️ **Funcionalidade 5:** Permitir exclusão de sensores cadastrados.
+
+✔️ **Funcionalidade 6:** Exibir dados ferroviários em tempo real.
+
+✔️ **Funcionalidade 7:** Mostrar a localização atual do trem.
+
+✔️ **Funcionalidade 8:** Classificar automaticamente o status operacional do trem.
+
+✔️ **Funcionalidade 9:** Gerar relatórios analíticos do sistema ferroviário.
+
+✔️ **Funcionalidade 10:** Permitir visualização de relatórios.
+
+✔️ **Funcionalidade 11:** Permitir logout do usuário.
+
+✔️ **Funcionalidade 12:** Atualizar dados automaticamente em tempo real.
+
+✔️ **Funcionalidade 13:** Exibir localização do trem através de mapa interativo.
+
+✔️ **Funcionalidade 14:** Classificar automaticamente situações de:
+- Normal
+- Alerta
+- Falha
+
+✔️ **Funcionalidade 15:** Permitir visualização de relatórios anteriores.
+
+✔️ **Funcionalidade 16:** Permitir visualização detalhada dos sensores cadastrados.
 
 
 
