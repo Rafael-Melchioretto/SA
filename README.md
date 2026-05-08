@@ -39,9 +39,12 @@ o sistema busca melhorar o controle e a segurança ferroviaria através da colet
 
 </p>
 
+<img width="1536" height="1024" alt="p1 0" src="https://github.com/user-attachments/assets/f562d813-d53f-4c82-af82-6f59808bca99" />
+
+
 ---
 
-## ⚙️ Funcionalidades
+##  Funcionalidades
 
 ✔️ **Funcionalidade 1:** Permitir login de usuários no sistema.
 
