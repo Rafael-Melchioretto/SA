@@ -75,6 +75,20 @@ o sistema busca melhorar o controle e a segurança ferroviaria através da colet
 
 ✔️ **Funcionalidade 16:** Permitir visualização detalhada dos sensores cadastrados.
 
+###
+
+---
+
+## Ferramentas utilizadas  
+
+<img width="1" height="225" alt="javascript1" src="https://github.com/user-attachments/assets/8a98dc54-1d2f-4898-8842-3840692d8b29" />
+
+<img width="400" height="400" alt="c11" src="https://github.com/user-attachments/assets/43736211-7507-4f2b-b2d9-a4b1d8186323" />
+
+<img width="400" height="400" alt="bt11" src="https://github.com/user-attachments/assets/ca588ba4-8b04-4801-93ad-4b77d7a56541" />
+
+<img width="400" height="400" alt="ht" src="https://github.com/user-attachments/assets/1f818756-8ed3-4beb-8708-8db0047bdb30" />
+
 
 
 
