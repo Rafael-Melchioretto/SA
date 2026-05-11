@@ -184,3 +184,51 @@ body {
   background-color: #144ea8;
   transform: scale(1.03);
 }
+
+
+.rotas-wrapper {
+  padding: 40px;
+}
+
+.rotas-card {
+  background-color: #0054b8;
+  border-radius: 25px;
+  padding: 25px;
+  color: white;
+  min-height: 220px;
+  box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.18);
+}
+
+.alert-line {
+  font-size: 32px;
+  font-weight: bold;
+  margin-top: 18px;
+  margin-bottom: 18px;
+}
+
+.alert-line i {
+  margin-left: 10px;
+}
+
+.alert-red {
+  color: #ff3b3b;
+}
+
+.alert-yellow {
+  color: #ffd500;
+}
+
+.alert-green {
+  color: #63d936;
+}
+
+.status-title {
+  font-size: 38px;
+  font-weight: 900;
+}
+
+.status-text {
+  font-size: 30px;
+  font-weight: bold;
+  margin: 0;
+}
