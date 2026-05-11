@@ -51,3 +51,45 @@ form.addEventListener("submit", function (event) {
   alert("Cadastro realizado com sucesso!");
   window.location.href = "home.html";
 });
+
+
+-----------------------------------------------------------------------------------------------------
+
+const searchBtn = document.getElementById("searchBtn");
+const searchInput = document.getElementById("searchInput");
+
+searchBtn.addEventListener("click", () => {
+
+const value = searchInput.value.trim();
+
+if(value === ""){
+alert("Digite uma rota para pesquisar.");
+return;
+}
+
+alert("Pesquisa realizada: " + value);
+
+});
+
+
+
+searchInput.addEventListener("keypress", (e) => {
+
+if(e.key === "Enter"){
+ searchBtn.click();
+}
+
+});
+
+
+
+const prevBtn = document.getElementById("prevBtn");
+const nextBtn = document.getElementById("nextBtn");
+
+prevBtn.addEventListener("click", () => {
+    alert("Voltar rota");
+});
+
+nextBtn.addEventListener("click", () => {
+    alert("Próxima rota");
+});
