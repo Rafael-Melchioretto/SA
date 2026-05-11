@@ -232,3 +232,53 @@ body {
   font-weight: bold;
   margin: 0;
 }
+
+.rota-link {
+  display: block;
+  color: white;
+  font-size: 30px;
+  font-weight: 900;
+  text-decoration: underline;
+  border: none;
+  background: none;
+}
+
+.rota-link:hover {
+  color: #dfe8ff;
+  opacity: 0.8;
+}
+
+.parada-text {
+  font-size: 28px;
+  font-weight: bold;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+/* MAPA */
+
+.mapa-container {
+  width: 100%;
+  background-color: #0054b8;
+  border-radius: 30px;
+  margin-top: 40px;
+  padding: 35px;
+  position: relative;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40px;
+}
+
+.mapa-box {
+  width: 65%;
+  height: 450px;
+  background-color: white;
+  border-radius: 12px;
+  overflow: hidden;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
