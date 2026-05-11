@@ -53,7 +53,7 @@ form.addEventListener("submit", function (event) {
 });
 
 
------------------------------------------------------------------------------------------------------
+
 
 const searchBtn = document.getElementById("searchBtn");
 const searchInput = document.getElementById("searchInput");
