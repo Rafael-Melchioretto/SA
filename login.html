@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Login | Pampa-Serra</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css">
+  <link rel="stylesheet" href="style/style.css">
+  <style>
+    body.login-page { min-height:100vh; display:flex; align-items:center; justify-content:center; padding:24px; }
+    .back-to-site {position:absolute; top:22px; left:24px; color:#173a72; font-weight:700; text-decoration:none;}
+    @media(max-width:620px){#card-login{flex-direction:column;}#lado-esquerdo,#lado-direito{width:100%;border-radius:0;}#lado-esquerdo{min-height:155px;}#logo{max-width:135px;}#form-area{padding:2rem 1.5rem;}}
+  </style>
+</head>
+<body class="login-page">
+  <a href="index.html" class="back-to-site">← Voltar ao início</a>
+  <main id="card-login">
+    <div id="lado-esquerdo">
+      <img src="assets/img/logo.png" id="logo" alt="Logo Pampa-Serra">
+    </div>
+    <div id="lado-direito">
+      <div id="form-area">
+        <h1 id="titulo">LOGIN</h1>
+        <form id="formLogin">
+          <div class="mb-3">
+            <label class="form-label" for="email">E-mail</label>
+            <input type="email" id="email" class="form-control" autocomplete="username" required>
+          </div>
+          <div class="mb-3">
+            <label class="form-label" for="senha">Senha</label>
+            <input type="password" id="senha" class="form-control" autocomplete="current-password" required>
+          </div>
+          <button type="submit" id="btn-entrar">Entrar</button>
+        </form>
+      </div>
+    </div>
+  </main>
+  <script src="script.js"></script>
+</body>
+</html>
